@@ -9,12 +9,12 @@
 # Quick Panel / Goto
 
 - ⌘p / ⌘t goto anything
--- @ with method
--- # with symbol
+  - @ with method
+  - # with symbol
 
 # Command Pallet
 
-- ⌘⌃p Command launcher
+- ⌘⌃p Command Launcher
 
 # Find
 
@@ -32,7 +32,7 @@
 
 - ⇧⌘f find in files...
 
-## Find Results
+# Find Results
 
 - F4 next result
 - ⇧F4 prev result

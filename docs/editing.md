@@ -8,11 +8,11 @@
 - Show Completions
 - http://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/
 
-### Multi-Line
+## Multi-Line
 
 - ⌃⇧ UP / DOWN
 
-## Selection
+# Selection
 
 - Split into Lines
 - Expand Selection ...

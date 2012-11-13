@@ -10,7 +10,7 @@
 ## Plugin Types
 
 - Application Commands (It doesn’t have any specific reference to window/view.)
--￼Window Commands (Provides a reference to the current window.)
+- Window Commands (Provides a reference to the current window.)
 - Text Commands (Provides a reference to the current view.)
 -￼Event Listner (Will be invoked when some event occurs.)
 
