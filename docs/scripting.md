@@ -2,12 +2,16 @@
 
 - ⌃` open Console
 
-    sys.version
+```python
+sys.version
+```
 
 # Logging
 
-    sublime.log_commands(True)
-    sublime.log_input(True)
-    sublime.error_message('i <3 sublime')
+```python
+sublime.log_commands(True)
+sublime.log_input(True)
+sublime.error_message('i <3 sublime')
+```
 
 - http://www.sublimetext.com/docs/2/api_reference.html
